@@ -3,3 +3,4 @@ Feature 1
 Feature 2
 Feature 3
 A fix from Feature2 branch
+New Feature 4
